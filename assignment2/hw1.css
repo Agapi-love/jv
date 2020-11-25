@@ -30,7 +30,7 @@ nav a {
 	border-radius: 10px;
 	margin: 10px;
 	background-color: #f1f1f1;
-	padding: 5px;
+	padding: 3px;
 }
 a:hover{
 	background: skyblue;
@@ -50,17 +50,15 @@ a:active {
 img{
 	float: left;
 	height: auto;
-    width: 50%;
-	margin-left: auto;
-    margin-right: 200%;
-	margin: 5px;
+   	width: 60%;
+	margin: 7px;
 	border: 2px solid black;
 }
 .right {
 	text-align: center-right;
 	margin: auto;
-	font-size: 110%;
+	font-size: 105%;
 }
-#USA {
+a {
 	text-decoration: none;
 }
